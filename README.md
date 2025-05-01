@@ -17,7 +17,7 @@ A flexible command-line utility for concatenating files from directories with po
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/cocat.git
+git clone https://github.com/rasibn/cocat.git
 cd cocat
 # Optional: set up execution permissions
 chmod +x cocat.py
